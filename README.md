@@ -104,8 +104,5 @@ Dessa forma, várias imagens podem ser processadas ao mesmo tempo, reduzindo o t
 
 ## 8. Autor
 
-**Aluno:** [Seu nome completo]
+**Aluno:** ERIK JERONIMO 
 
-**Disciplina:** Programação Paralela e Distribuída
-
-**Atividade:** 2ª Unidade
